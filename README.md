@@ -1,6 +1,6 @@
 # DTL Security Benchmark
 
-> **The first reproducible security gate verification benchmark for high-consequence AI systems.**
+> **A reproducible security gate verification benchmark for high-consequence AI systems.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Open%20for%20Submissions-brightgreen)](#leaderboard)
@@ -147,4 +147,4 @@ MIT License. Patent AU 2026905289 (DTL technology).
 
 ---
 
-**The first reproducible security gate benchmark. Real gates. Real attacks. Real results.**
+**A reproducible security gate benchmark. Real gates. Real attacks. Real results.**
